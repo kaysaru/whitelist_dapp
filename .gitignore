@@ -1,6 +1,9 @@
+.idea
+
 /hardhat-tutorial/.env*.local
 /hardhat-tutorial/node_modules
 /hardhat-tutorial/.env
+
 
 /my-app/node_modules
 /my-app/.next
