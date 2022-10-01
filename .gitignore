@@ -7,6 +7,7 @@
 
 /my-app/node_modules
 /my-app/.next
+/my-app/out
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
